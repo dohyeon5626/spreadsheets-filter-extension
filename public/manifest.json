@@ -1,0 +1,6 @@
+{
+    "name": "Google Sheet Filter",
+    "description": "Search and filter your Google Sheets tabs by keyword!",
+    "version": "0.1",
+    "manifest_version": 3
+ }
