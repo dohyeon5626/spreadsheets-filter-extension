@@ -2,5 +2,12 @@
     "name": "Google Sheets Filter",
     "description": "Search and filter your Google Sheets tabs by keyword!",
     "version": "0.1",
-    "manifest_version": 3
+    "manifest_version": 3,
+    "content_scripts": [
+      {
+          "matches": ["https://docs.google.com/spreadsheets/d/*/edit*"],
+          "js": ["content.js"],
+          "css": ["content.css"]
+      }
+    ]
  }

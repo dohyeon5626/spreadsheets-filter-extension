@@ -1,0 +1,20 @@
+.spread-search-bar {
+    margin-left: 1.5em;
+    background-repeat: no-repeat;
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(204, 204, 204);
+    border-image: initial;
+    border-radius: 4px;
+    background-position: 10px 10px;
+    padding: 5px 8px 5px 8px;
+}
+
+.search-disabled {
+    visibility: hidden!important;
+    width: 0!important;
+    padding: 0 !important;
+    margin: 0!important;
+    border: 0 !important;
+    position: absolute !important;
+}

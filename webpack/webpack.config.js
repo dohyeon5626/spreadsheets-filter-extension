@@ -4,6 +4,7 @@ const CopyPlugin = require('copy-webpack-plugin');
 module.exports = {
    mode: "production",
    entry: {
+      "content": ["./src/content.ts"]
    },
    output: {
       path: path.join(__dirname, "../dist"),
