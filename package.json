@@ -1,6 +1,6 @@
 {
   "name": "google-sheets-filter-extension",
-  "version": "0.1",
+  "version": "1.0",
   "scripts": {
     "build": "rm -rf ./dist && webpack --config webpack/webpack.config.js",
     "zip": "npm run build && zip -r ./dist.zip ./dist/*"
