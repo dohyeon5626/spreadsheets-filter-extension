@@ -3,6 +3,12 @@
     "description": "Search and filter your Google Sheets tabs by keyword!",
     "version": "0.1",
     "manifest_version": 3,
+    "icons": {
+        "16": "img/logo-16.png",
+        "32": "img/logo-32.png",
+        "48": "img/logo-48.png",
+        "128": "img/logo-128.png"
+    },
     "content_scripts": [
       {
           "matches": ["https://docs.google.com/spreadsheets/d/*/edit*"],
