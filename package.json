@@ -7,14 +7,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dohyeon5626/google-sheet-filter-extension.git"
+    "url": "git+https://github.com/dohyeon5626/spreadsheets-filter-extension.git"
   },
   "author": "dohyeon5626 <developer@dohyeon5626.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dohyeon5626/google-sheet-filter-extension/issues"
+    "url": "https://github.com/dohyeon5626/spreadsheets-filter-extension/issues"
   },
-  "homepage": "https://github.com/dohyeon5626/google-sheet-filter-extension#readme",
+  "homepage": "https://github.com/dohyeon5626/spreadsheets-filter-extension#readme",
   "devDependencies": {
     "@types/chrome": "^0.0.263",
     "copy-webpack-plugin": "^12.0.2",
